@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="codechef" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Math.round</find>
+      <find>teamList</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>parseInt</replace>
+    </replaceStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="295" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1OedMU2lLhpIzq1WlSJGLuZaAl3" />
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sample-code" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.AdditionOfSubmatrix.js">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.codechef.Coins" />
+      <module name="codechef" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdditionOfSubmatrix.js" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="AdditionOfSubmatrix.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_PATH" value="/usr/bin/node" />
+      </envs>
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Unknown" />
+      </method>
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" path-to-js-file="MaximumInStructArray.js" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Unknown" />
+      </method>
+    </configuration>
+    <configuration name="counter.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="counter.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test1.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="test1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.AdditionOfSubmatrix.js" />
+      <item itemvalue="Node.js.counter.js" />
+      <item itemvalue="Node.js.test1.js" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="" />
+      <created>1561405889688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561405889688</updated>
+      <workItem from="1561484403518" duration="5290000" />
+      <workItem from="1562008659872" duration="6876000" />
+      <workItem from="1562093652862" duration="5302000" />
+      <workItem from="1562233208860" duration="5598000" />
+      <workItem from="1562686857026" duration="8508000" />
+      <workItem from="1562787601753" duration="599000" />
+      <workItem from="1562954007475" duration="7947000" />
+      <workItem from="1563047120966" duration="4119000" />
+      <workItem from="1563114451705" duration="6552000" />
+      <workItem from="1564341969873" duration="869000" />
+      <workItem from="1564678452467" duration="33000" />
+      <workItem from="1564683048625" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+</project>
