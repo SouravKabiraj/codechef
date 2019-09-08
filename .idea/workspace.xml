@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/addition-of-submatrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/addition-of-submatrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count-occurences-of-anagrams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,15 +25,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Math.round</find>
-      <find>teamList</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>parseInt</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.nvm/versions/node/v10.16.2/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
@@ -69,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.AdditionOfSubmatrix.js">
+  <component name="RunManager" selected="Node.js.count-occurences-of-anagrams.js">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Coins" />
       <module name="codechef" />
@@ -80,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdditionOfSubmatrix.js" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="AdditionOfSubmatrix.js" working-dir="$PROJECT_DIR$">
-      <envs>
-        <env name="NODE_PATH" value="/usr/bin/node" />
-      </envs>
+    <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" path-to-js-file="MaximumInStructArray.js" working-dir="$PROJECT_DIR$">
       <method v="2">
         <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Unknown" />
       </method>
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" path-to-js-file="MaximumInStructArray.js" working-dir="$PROJECT_DIR$">
+    <configuration name="count-occurences-of-anagrams.js" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.2/bin/node" nameIsGenerated="true" path-to-js-file="count-occurences-of-anagrams.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_PATH" value="/usr/bin/node" />
+      </envs>
       <method v="2">
         <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Unknown" />
       </method>
@@ -100,7 +92,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.AdditionOfSubmatrix.js" />
+      <item itemvalue="Node.js.count-occurences-of-anagrams.js" />
       <item itemvalue="Node.js.counter.js" />
       <item itemvalue="Node.js.test1.js" />
     </list>
@@ -127,7 +119,7 @@
       <workItem from="1564341969873" duration="869000" />
       <workItem from="1564678452467" duration="33000" />
       <workItem from="1564683048625" duration="80000" />
-      <workItem from="1567956431264" duration="4917000" />
+      <workItem from="1567956431264" duration="11756000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -136,17 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1567961527073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#1 | Sourav | implemented addition of sub matrix">
+      <created>1567961542603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567961542603</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
