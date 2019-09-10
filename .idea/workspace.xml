@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="#1 | Sourav | implemented addition of sub matrix">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/greater-on-right-side.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568115057209</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="#6 | Sourav | added git ignore.">
+      <created>1568115182893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568115182893</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#1 | Sourav | implemented addition of sub matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="#1 | Sourav | implemented addition of sub matrix" />
+    <MESSAGE value="#6 | Sourav | added git ignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="#6 | Sourav | added git ignore." />
   </component>
 </project>
