@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/greater-on-right-side.js" afterDir="false" />
+    <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="#7 | Sourav | greater on right.">
+      <change afterPath="$PROJECT_DIR$/array/sum-of-lengths-of-non-overlapping-subarrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist/delete-without-head-pointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist/quick-sort.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdditionOfSubmatrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/AdditionOfSubmatrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountZeros.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/CountZeros.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstNegativeInteger.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/FirstNegativeInteger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestFibonacciSubsequence.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/LargestFibonacciSubsequence.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumInStructArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/MaximumInStructArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addition-of-submatrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/addition-of-submatrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coins.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/coins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count-occurences-of-anagrams.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/count-occurences-of-anagrams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count-the-zeros.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/count-the-zeros.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countPairsWithGivenSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/countPairsWithGivenSum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find-transition-point.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/find-transition-point.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greater-on-right-side.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/greater-on-right-side.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kthSmallestElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/kthSmallestElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/max-value-after-m-range-operation.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/max-value-after-m-range-operation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotate-a-2d-array-without-using-extra-space.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/rotate-a-2d-array-without-using-extra-space.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotateArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/rotateArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumOfBitDifferences.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/sumOfBitDifferences.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/test1.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,10 +65,16 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/.nvm/versions/node/v10.16.2/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/linkedlist" />
+      <recent name="$PROJECT_DIR$/array" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,7 +104,7 @@
         <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Unknown" />
       </method>
     </configuration>
-    <configuration name="count-occurences-of-anagrams.js" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.2/bin/node" nameIsGenerated="true" path-to-js-file="count-occurences-of-anagrams.js" working-dir="$PROJECT_DIR$">
+    <configuration name="count-occurences-of-anagrams.js" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.2/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array/count-occurences-of-anagrams.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
@@ -85,10 +112,10 @@
         <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Unknown" />
       </method>
     </configuration>
-    <configuration name="counter.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="counter.js" working-dir="$PROJECT_DIR$">
+    <configuration name="counter.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array/counter.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="test1.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="test1.js" working-dir="$PROJECT_DIR$">
+    <configuration name="test1.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array/test1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
@@ -120,6 +147,8 @@
       <workItem from="1564678452467" duration="33000" />
       <workItem from="1564683048625" duration="80000" />
       <workItem from="1567956431264" duration="11756000" />
+      <workItem from="1568120505077" duration="39000" />
+      <workItem from="1568120545041" duration="6266000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -149,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568115182893</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="#7 | Sourav | greater on right.">
+      <created>1568118114788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568118114788</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +199,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -172,6 +210,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#1 | Sourav | implemented addition of sub matrix" />
     <MESSAGE value="#6 | Sourav | added git ignore." />
-    <option name="LAST_COMMIT_MESSAGE" value="#6 | Sourav | added git ignore." />
+    <MESSAGE value="#7 | Sourav | greater on right." />
+    <option name="LAST_COMMIT_MESSAGE" value="#7 | Sourav | greater on right." />
   </component>
 </project>
