@@ -25,7 +25,11 @@ function main(input) {
 function quickSort(array) {
     const linkListPointer = arrayToLinkList(array);
     sort(linkListPointer);
-    for (point = linkListPointer; point.next != null; point = point.next) {
+    printLinkList(linkListPointer);
+}
+
+function printLinkList(start) {
+    for (point = start; point.next != null; point = point.next) {
         console.log(point.value);
     }
 }
@@ -63,8 +67,9 @@ function partition(start) {
 function arrayToLinkList(array) {
     const root = new Node(array[0]);
     let point = root;
-    for (i = 1; i < array.length; i++, point = point.next) {
+    for (i = 1; i < array.length; i++) {
         point.next = new Node(array[i]);
+        point = point.next;
     }
 }
 
