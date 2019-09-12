@@ -31,7 +31,7 @@ function quickSort(array) {
 }
 
 function sort(start) {
-    if (start.next == null) {
+    if (start.next != null) {
         let pivot = partition(start);
         sort(start);
         sort(pivot + 1);
@@ -82,3 +82,28 @@ class Node {
         this.next = node;
     }
 }
+
+//
+// QuickSort(list, start, end)
+// {
+//     if (start < end) {
+//         let partition = Partition(list, start, end);
+//         QuickSort(list, start, partition.prev());
+//         QuickSort(list, partition.next(), end);
+//     }
+// }
+//
+// Partition(list, start, end)
+// {
+//     let pivot = end;
+//     let i = start;
+//     for (pointer = start; pointer != null; pointer = pointer.next) {
+//         if (pointer.element <= pivot.element) {
+//             swap(pointer, i);
+//             i = i.next;
+//         }
+//     }
+//
+//     swap(end, i);
+//     return i;
+// }
