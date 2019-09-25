@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="#7 | Sourav | greater on right.">
-      <change afterPath="$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/linkedlist/reorder-list.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,6 +20,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linkedlist/split-a-circular-linked-list-into-two-halves.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linkedlist/sort-a-linked-list.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-491">
+              <caret line="58" column="46" lean-forward="true" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linkedlist/union-of-two-linked-list.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,28 +64,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="91" column="29" lean-forward="true" selection-start-line="91" selection-start-column="29" selection-end-line="91" selection-end-column="29" />
+            <state>
+              <caret selection-end-line="51" selection-end-column="1" />
+              <folding>
+                <element signature="n#LinklistNode#0" />
+                <element signature="n#!!block;n#constructor#0;n#LinklistNode#0" />
+                <element signature="n#Linklist#0" />
+                <element signature="n#!!block;n#constructor#0;n#Linklist#0" />
+                <element signature="n#!!block;n#add#0;n#Linklist#0" />
+                <element signature="e#533#574#0" />
+                <element signature="e#580#721#0" />
+                <element signature="e#623#678#0" />
+                <element signature="n#!!block;n#addAtStart#0;n#Linklist#0" />
+                <element signature="e#800#824#0" />
+                <element signature="e#867#891#0" />
+                <element signature="n#!!block;n#show#0;n#Linklist#0" />
+                <element signature="e#1093#1190#0" />
+                <element signature="n#!!block;n#margeRev#0" />
+                <element signature="e#1125#1141#0" />
+                <element signature="e#1172#1196#0" />
+                <element signature="e#1530#1554#0" />
+                <element signature="e#1700#1716#0" />
+                <element signature="e#1735#1759#0" />
+                <element signature="e#1874#2017#0" />
+                <element signature="e#1909#2011#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linkedlist/reorder-list.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
               <folding>
                 <element signature="n#LinklistNode#0" />
                 <element signature="n#!!block;n#constructor#0;n#LinklistNode#0" />
                 <element signature="n#!!block;n#constructor#0;n#Linklist#0" />
+                <element signature="n#!!block;n#add#0;n#Linklist#0" />
+                <element signature="e#533#574#0" />
+                <element signature="e#580#721#0" />
                 <element signature="e#623#678#0" />
-                <element signature="n#!!block;n#show#0;n#Linklist#0" />
-                <element signature="e#1093#1190#0" />
+                <element signature="n#!!block;n#addAtStart#0;n#Linklist#0" />
+                <element signature="e#848#889#0" />
+                <element signature="e#895#971#0" />
+                <element signature="e#1064#1161#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.js">
+        <entry file="file://$PROJECT_DIR$/linkedlist/reorder-list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+            <state relative-caret-position="274">
+              <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -82,6 +136,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mid</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -90,6 +149,8 @@
       <list>
         <option value="$PROJECT_DIR$/linkedlist/delete-alternate-nodes.ts" />
         <option value="$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.ts" />
+        <option value="$PROJECT_DIR$/linkedlist/reorder-list.js" />
+        <option value="$PROJECT_DIR$/linkedlist/reorder-list.ts" />
       </list>
     </option>
   </component>
@@ -167,7 +228,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node" path-to-js-file="linkedlist/merge-2-sorted-linked-list-in-reverse-order.js" working-dir="$PROJECT_DIR$">
+    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node" path-to-js-file="linkedlist/reorder-list.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
@@ -215,7 +276,7 @@
       <workItem from="1567956431264" duration="11756000" />
       <workItem from="1568120505077" duration="39000" />
       <workItem from="1568120545041" duration="6266000" />
-      <workItem from="1569384284730" duration="1136000" />
+      <workItem from="1569384284730" duration="4103000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -259,11 +320,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569305654199</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="#13 | Sourav | merge 2 sorted linked list.">
+      <created>1569385591647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569385591647</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2061000" />
+    <option name="totallyTimeSpent" value="5028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -275,14 +343,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4947146" weight="0.32939634" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49541932" visible="true" weight="0.33581164" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4947146" weight="0.41140026" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49682876" weight="0.4448575" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50528544" side_tool="true" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49612403" visible="true" weight="0.22304833" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.503876" side_tool="true" weight="0.22304833" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -294,7 +362,7 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.js" />
+        <option value="$PROJECT_DIR$/linkedlist/reorder-list.js" />
       </list>
     </option>
   </component>
@@ -346,22 +414,53 @@
     <MESSAGE value="#6 | Sourav | added git ignore." />
     <MESSAGE value="#7 | Sourav | greater on right." />
     <MESSAGE value="#12 | Sourav | Added delete alternate nodes." />
-    <option name="LAST_COMMIT_MESSAGE" value="#12 | Sourav | Added delete alternate nodes." />
+    <MESSAGE value="#13 | Sourav | merge 2 sorted linked list." />
+    <option name="LAST_COMMIT_MESSAGE" value="#13 | Sourav | merge 2 sorted linked list." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.js</url>
-          <line>59</line>
+          <url>file://$PROJECT_DIR$/linkedlist/reorder-list.js</url>
+          <line>63</line>
           <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.js</url>
+          <url>file://$PROJECT_DIR$/linkedlist/reorder-list.js</url>
+          <line>64</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/linkedlist/reorder-list.js</url>
           <line>65</line>
           <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/linkedlist/reorder-list.js</url>
+          <line>66</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/linkedlist/reorder-list.js</url>
+          <line>67</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/linkedlist/reorder-list.js</url>
+          <line>68</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/linkedlist/reorder-list.js</url>
+          <line>70</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -419,15 +518,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="91" column="29" lean-forward="true" selection-start-line="91" selection-start-column="29" selection-end-line="91" selection-end-column="29" />
+        <state>
+          <caret selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="n#LinklistNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#LinklistNode#0" />
+            <element signature="n#Linklist#0" />
+            <element signature="n#!!block;n#constructor#0;n#Linklist#0" />
+            <element signature="n#!!block;n#add#0;n#Linklist#0" />
+            <element signature="e#533#574#0" />
+            <element signature="e#580#721#0" />
+            <element signature="e#623#678#0" />
+            <element signature="n#!!block;n#addAtStart#0;n#Linklist#0" />
+            <element signature="e#800#824#0" />
+            <element signature="e#867#891#0" />
+            <element signature="n#!!block;n#show#0;n#Linklist#0" />
+            <element signature="e#1093#1190#0" />
+            <element signature="n#!!block;n#margeRev#0" />
+            <element signature="e#1125#1141#0" />
+            <element signature="e#1172#1196#0" />
+            <element signature="e#1530#1554#0" />
+            <element signature="e#1700#1716#0" />
+            <element signature="e#1735#1759#0" />
+            <element signature="e#1874#2017#0" />
+            <element signature="e#1909#2011#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/split-a-circular-linked-list-into-two-halves.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/sort-a-linked-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="58" column="46" lean-forward="true" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/reorder-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/reorder-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
           <folding>
             <element signature="n#LinklistNode#0" />
             <element signature="n#!!block;n#constructor#0;n#LinklistNode#0" />
             <element signature="n#!!block;n#constructor#0;n#Linklist#0" />
+            <element signature="n#!!block;n#add#0;n#Linklist#0" />
+            <element signature="e#533#574#0" />
+            <element signature="e#580#721#0" />
             <element signature="e#623#678#0" />
-            <element signature="n#!!block;n#show#0;n#Linklist#0" />
-            <element signature="e#1093#1190#0" />
+            <element signature="n#!!block;n#addAtStart#0;n#Linklist#0" />
+            <element signature="e#848#889#0" />
+            <element signature="e#895#971#0" />
+            <element signature="e#1064#1161#0" />
           </folding>
         </state>
       </provider>
