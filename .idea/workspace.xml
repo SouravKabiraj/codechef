@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree/mirror-tree.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/minimum-element-in-bst.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,17 +32,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/mirror-tree.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+            <state>
+              <caret selection-end-line="9" />
+              <folding>
+                <element signature="n#TreeNode#0" />
+                <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/mirror-tree.js">
+        <entry file="file://$PROJECT_DIR$/tree/minimum-element-in-bst.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="396">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+              <folding>
+                <element signature="n#TreeNode#0" />
+                <element signature="e#301#417#0" />
+                <element signature="e#336#407#0" />
+                <element signature="e#385#417#0" />
+                <element signature="e#395#419#0" />
+                <element signature="e#501#567#0" />
+                <element signature="e#573#636#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_23.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,8 +78,6 @@
                 <element signature="n#TreeNode#0" />
                 <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
                 <element signature="n#!!block;n#calculateHeight#0" />
-                <element signature="e#247#263#0" />
-                <element signature="e#259#275#0" />
               </folding>
             </state>
           </provider>
@@ -66,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/count-leaves-in-binary-tree.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
+            <state relative-caret-position="504">
               <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
             </state>
           </provider>
@@ -105,6 +125,8 @@
         <option value="$PROJECT_DIR$/tree/mirror-tree.js" />
         <option value="$PROJECT_DIR$/tree/mirror-tree.ts" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.json" />
+        <option value="$PROJECT_DIR$/tree/minimum-element-in-bst.ts" />
       </list>
     </option>
   </component>
@@ -132,11 +154,6 @@
             <path>
               <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="linkedlist" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -236,7 +253,8 @@
       <workItem from="1568120505077" duration="39000" />
       <workItem from="1568120545041" duration="6266000" />
       <workItem from="1569384284730" duration="7397000" />
-      <workItem from="1569815015635" duration="7664000" />
+      <workItem from="1569815015635" duration="9653000" />
+      <workItem from="1569903471927" duration="1515000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -308,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569820327389</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="#18 | Sourav | mirror tree.">
+      <created>1569833042927</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569833042927</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15986000" />
+    <option name="totallyTimeSpent" value="19490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -330,7 +355,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49612403" visible="true" weight="0.4199475" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49612403" visible="true" weight="0.21784776" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.503876" side_tool="true" weight="0.22304833" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32961586" />
@@ -343,7 +368,7 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/tree/mirror-tree.js" />
+        <option value="$PROJECT_DIR$/tree/minimum-element-in-bst.js" />
       </list>
     </option>
   </component>
@@ -399,7 +424,8 @@
     <MESSAGE value="#15 | Sourav | Reorder list." />
     <MESSAGE value="#16 | Sourav | segregate even and odd linklist." />
     <MESSAGE value="#17 | Sourav | Added tree problem." />
-    <option name="LAST_COMMIT_MESSAGE" value="#17 | Sourav | Added tree problem." />
+    <MESSAGE value="#18 | Sourav | mirror tree." />
+    <option name="LAST_COMMIT_MESSAGE" value="#18 | Sourav | mirror tree." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/linkedlist/union-of-two-linked-list.js" />
@@ -502,13 +528,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linkedlist/segregate-even-and-odd-nodes-in-a-linked-list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/segregate-even-and-odd-nodes-in-a-linked-list.js" />
     <entry file="file://$PROJECT_DIR$/linkedlist/split-a-circular-linked-list-into-two-halves.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -534,54 +554,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/clone-a-binary-tree.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/height-of-binary-tree.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/count-leaves-in-binary-tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/count-leaves-in-binary-tree.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/clone-a-binary-tree.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/height-of-binary-tree.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="37" column="36" selection-start-line="22" selection-end-line="37" selection-end-column="36" />
-          <folding>
-            <element signature="n#TreeNode#0" />
-            <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
-            <element signature="n#!!block;n#calculateHeight#0" />
-            <element signature="e#247#263#0" />
-            <element signature="e#259#275#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/mirror-tree.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/clone-a-binary-tree.js" />
+    <entry file="file://$PROJECT_DIR$/tree/height-of-binary-tree.js" />
+    <entry file="file://$PROJECT_DIR$/tree/count-leaves-in-binary-tree.js" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -599,10 +574,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/mirror-tree.js">
+    <entry file="file://$PROJECT_DIR$/tree/mirror-tree.js" />
+    <entry file="file://$PROJECT_DIR$/tree/clone-a-binary-tree.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="108">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/mirror-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+          <folding>
+            <element signature="n#TreeNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/height-of-binary-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="37" column="36" selection-start-line="22" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="n#TreeNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
+            <element signature="n#!!block;n#calculateHeight#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/count-leaves-in-binary-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_23.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/minimum-element-in-bst.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <element signature="n#TreeNode#0" />
+            <element signature="e#301#417#0" />
+            <element signature="e#336#407#0" />
+            <element signature="e#385#417#0" />
+            <element signature="e#395#419#0" />
+            <element signature="e#501#567#0" />
+            <element signature="e#573#636#0" />
+          </folding>
         </state>
       </provider>
     </entry>
