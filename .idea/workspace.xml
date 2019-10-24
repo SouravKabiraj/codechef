@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graph/find-whether-path-exist.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/x-total-shapes.ts" afterDir="false" />
-    <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="#L20 | Sourav | tree to cdll.">
+      <change afterPath="$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/max-level-sum-in-binary-tree.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tree/max-level-sum-in-binary-tree.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/convert-ternary-expression-to-binary-tree.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/expression-tree.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,11 +65,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/graph/find-whether-path-exist.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+            <state relative-caret-position="137">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -155,6 +152,7 @@
         <option value="$PROJECT_DIR$/graph/x-total-shapes.js" />
         <option value="$PROJECT_DIR$/graph/x-total-shapes.ts" />
         <option value="$PROJECT_DIR$/graph/find-whether-path-exist.ts" />
+        <option value="$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts" />
       </list>
     </option>
   </component>
@@ -184,6 +182,16 @@
               <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
+            <path>
+              <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="graph" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="tree" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -195,9 +203,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tree/diagonal-sum-in-binary-tree.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -230,7 +238,6 @@
       </method>
     </configuration>
     <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node" path-to-js-file="graph/x-total-shapes.js" working-dir="$PROJECT_DIR$">
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.3/bin/node" path-to-js-file="tree/children-sum-parent.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
@@ -252,16 +259,6 @@
       <item itemvalue="Node.js.counter.js" />
       <item itemvalue="Node.js.test1.js" />
     </list>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand />
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -291,10 +288,7 @@
       <workItem from="1569384284730" duration="7397000" />
       <workItem from="1569815015635" duration="9653000" />
       <workItem from="1569903471927" duration="1515000" />
-      <workItem from="1571253788142" duration="515000" />
-      <workItem from="1571334640254" duration="4042000" />
-      <workItem from="1571414187068" duration="471000" />
-      <workItem from="1571804463711" duration="8395000" />
+      <workItem from="1571804463711" duration="11906000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -373,8 +367,50 @@
       <option name="project" value="LOCAL" />
       <updated>1569833042927</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="#M19 | Sourav | make bin tree">
+      <created>1571412956484</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571412956484</updated>
+    </task>
+    <task id="LOCAL-00013" summary="#M20 | Sourav | x shape and find path added.">
+      <created>1571899296170</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571899296170</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31449000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2410148" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4947146" weight="0.32939634" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4947146" weight="0.4081365" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49612403" visible="true" weight="0.21784776" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.503876" side_tool="true" weight="0.22304833" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32961586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -382,10 +418,7 @@
       <list>
         <option value="$PROJECT_DIR$/graph/x-total-shapes.js" />
         <option value="$PROJECT_DIR$/graph/find-whether-path-exist.js" />
-        <option value="$PROJECT_DIR$/tree/vertical-sum.js" />
-        <option value="$PROJECT_DIR$/tree/binary-tree-to-cdll.js" />
-        <option value="$PROJECT_DIR$/tree/children-sum-parent.js" />
-        <option value="$PROJECT_DIR$/tree/max-level-sum-in-binary-tree.js" />
+        <option value="$PROJECT_DIR$/graph/length-of-largest-region-of-1s.js" />
       </list>
     </option>
   </component>
@@ -398,7 +431,20 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ORDER" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -429,49 +475,10 @@
     <MESSAGE value="#16 | Sourav | segregate even and odd linklist." />
     <MESSAGE value="#17 | Sourav | Added tree problem." />
     <MESSAGE value="#18 | Sourav | mirror tree." />
-    <MESSAGE value="#L19 | Sourav | Diagonal sum." />
-    <MESSAGE value="#L20 | Sourav | tree to cdll." />
-    <MESSAGE value="#L21 | Sourav | children sum parent." />
-    <MESSAGE value="#L21 | Sourav | max level sum." />
-    <option name="LAST_COMMIT_MESSAGE" value="#L21 | Sourav | max level sum." />
     <MESSAGE value="#M19 | Sourav | make bin tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="#M19 | Sourav | make bin tree" />
+    <MESSAGE value="#M20 | Sourav | x shape and find path added." />
+    <option name="LAST_COMMIT_MESSAGE" value="#M20 | Sourav | x shape and find path added." />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/tree/children-sum-parent.js</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/tree/children-sum-parent.js</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/tree/children-sum-parent.js</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/tree/children-sum-parent.js</url>
-          <line>10</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/tree/children-sum-parent.js</url>
-          <line>18</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/tree/children-sum-parent.js</url>
-          <line>15</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/linkedlist/union-of-two-linked-list.js" />
     <entry file="file://$PROJECT_DIR$/linkedlist/delete-alternate-nodes.ts">
@@ -747,6 +754,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graph/find-whether-path-exist.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tree/make-binary-tree.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-731">
@@ -754,10 +768,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/find-whether-path-exist.ts">
+    <entry file="file://$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        <state relative-caret-position="476">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
         </state>
       </provider>
     </entry>
