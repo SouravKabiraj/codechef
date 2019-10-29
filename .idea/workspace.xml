@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/implementing-floyd-warshall.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/steps-by-knight.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,46 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/expression-tree.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/remove-half-nodes.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/max-level-sum-in-binary-tree.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/make-binary-tree.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-731">
+            <state relative-caret-position="216">
               <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/graph/x-total-shapes.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -68,17 +33,77 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/graph/find-whether-path-exist.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="738">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="882">
               <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graph/implementing-floyd-warshall.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graph/steps-by-knight.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+              <folding>
+                <element signature="n#Position#0" />
+                <element signature="n#!!block;n#constructor#0;n#Position#0" />
+                <element signature="n#Queue#0" />
+                <element signature="n#!!block;n#add#0;n#Queue#0" />
+                <element signature="e#447#483#0" />
+                <element signature="n#!!block;n#remove#0;n#Queue#0" />
+                <element signature="e#638#674#0" />
+                <element signature="n#!!block;n#getKnightSteps#0" />
+                <element signature="n#!!block;n#f#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graph/snake-and-ladder-problem.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graph/steps-by-knight.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="49" column="77" lean-forward="true" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
+              <folding>
+                <element signature="e#49#62#0" />
+                <element signature="e#76#176#0" />
+                <element signature="e#106#153#0" />
+                <element signature="e#193#206#0" />
+                <element signature="e#220#743#0" />
+                <element signature="e#243#323#0" />
+                <element signature="e#369#498#0" />
+                <element signature="e#456#492#0" />
+                <element signature="e#541#722#0" />
+                <element signature="e#656#692#0" />
+                <element signature="e#898#1069#0" />
+                <element signature="e#989#1063#0" />
+                <element signature="n#!!block;n#getKnightSteps#0" />
+                <element signature="e#1933#2372#0" />
+                <element signature="n#!!block;n#isInSideBoard#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,6 +151,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mid</find>
+      <find>terget</find>
+      <find>`</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,6 +180,9 @@
         <option value="$PROJECT_DIR$/graph/x-total-shapes.ts" />
         <option value="$PROJECT_DIR$/graph/find-whether-path-exist.ts" />
         <option value="$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts" />
+        <option value="$PROJECT_DIR$/graph/implementing-floyd-warshall.ts" />
+        <option value="$PROJECT_DIR$/graph/steps-by-knight.js" />
+        <option value="$PROJECT_DIR$/graph/steps-by-knight.ts" />
       </list>
     </option>
   </component>
@@ -163,7 +193,6 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="88" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -186,11 +215,6 @@
               <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="graph" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="tree" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -237,7 +261,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node" path-to-js-file="graph/x-total-shapes.js" working-dir="$PROJECT_DIR$">
+    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node" path-to-js-file="graph/steps-by-knight.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
@@ -289,6 +313,8 @@
       <workItem from="1569815015635" duration="9653000" />
       <workItem from="1569903471927" duration="1515000" />
       <workItem from="1571804463711" duration="11906000" />
+      <workItem from="1572255815590" duration="6433000" />
+      <workItem from="1572359137721" duration="4995000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -385,12 +411,33 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31449000" />
+    <option name="totallyTimeSpent" value="42877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2410148" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49400985" weight="0.48031497" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49119097" weight="0.38845146" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4918957" visible="true" weight="0.31889763" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5081043" side_tool="true" weight="0.52362204" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32961586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2410148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -410,7 +457,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -419,6 +466,8 @@
         <option value="$PROJECT_DIR$/graph/x-total-shapes.js" />
         <option value="$PROJECT_DIR$/graph/find-whether-path-exist.js" />
         <option value="$PROJECT_DIR$/graph/length-of-largest-region-of-1s.js" />
+        <option value="$PROJECT_DIR$/graph/implementing-floyd-warshall.js" />
+        <option value="$PROJECT_DIR$/graph/steps-by-knight.js" />
       </list>
     </option>
   </component>
@@ -478,6 +527,30 @@
     <MESSAGE value="#M19 | Sourav | make bin tree" />
     <MESSAGE value="#M20 | Sourav | x shape and find path added." />
     <option name="LAST_COMMIT_MESSAGE" value="#M20 | Sourav | x shape and find path added." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/graph/steps-by-knight.js</url>
+          <line>50</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/graph/steps-by-knight.js</url>
+          <line>53</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/graph/steps-by-knight.js</url>
+          <line>54</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/linkedlist/union-of-two-linked-list.js" />
@@ -722,6 +795,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graph/x-total-shapes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/make-binary-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/find-whether-path-exist.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/implementing-floyd-warshall.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/snake-and-ladder-problem.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/x-total-shapes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -740,38 +858,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/x-total-shapes.js">
+    <entry file="file://$PROJECT_DIR$/graph/steps-by-knight.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="216">
+          <caret line="49" column="77" lean-forward="true" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
+          <folding>
+            <element signature="e#49#62#0" />
+            <element signature="e#76#176#0" />
+            <element signature="e#106#153#0" />
+            <element signature="e#193#206#0" />
+            <element signature="e#220#743#0" />
+            <element signature="e#243#323#0" />
+            <element signature="e#369#498#0" />
+            <element signature="e#456#492#0" />
+            <element signature="e#541#722#0" />
+            <element signature="e#656#692#0" />
+            <element signature="e#898#1069#0" />
+            <element signature="e#989#1063#0" />
+            <element signature="n#!!block;n#getKnightSteps#0" />
+            <element signature="e#1933#2372#0" />
+            <element signature="n#!!block;n#isInSideBoard#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/x-total-shapes.ts">
+    <entry file="file://$PROJECT_DIR$/graph/steps-by-knight.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/find-whether-path-exist.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/make-binary-tree.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-731">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        <state relative-caret-position="346">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="n#Position#0" />
+            <element signature="n#!!block;n#constructor#0;n#Position#0" />
+            <element signature="n#Queue#0" />
+            <element signature="n#!!block;n#add#0;n#Queue#0" />
+            <element signature="e#447#483#0" />
+            <element signature="n#!!block;n#remove#0;n#Queue#0" />
+            <element signature="e#638#674#0" />
+            <element signature="n#!!block;n#getKnightSteps#0" />
+            <element signature="n#!!block;n#f#0" />
+          </folding>
         </state>
       </provider>
     </entry>
