@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graph/minimum-spanning-tree.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/topological-sort.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.test">
+  <component name="RunManager" selected="Node.js.DEBUG JS">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.codechef.Coins" />
       <module name="codechef" />
@@ -74,16 +74,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="graph/bfs.js" working-dir="$PROJECT_DIR$">
+    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="graph/topological-sort.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" path-to-js-file="MaximumInStructArray.js" working-dir="$PROJECT_DIR$">
-      <method v="2">
-        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Unknown" />
-      </method>
+    <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="graph/topological-sort.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
     </configuration>
     <configuration name="counter.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array/counter.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
@@ -158,7 +156,8 @@
       <workItem from="1572804600534" duration="617000" />
       <workItem from="1572881948967" duration="319000" />
       <workItem from="1572883893195" duration="69000" />
-      <workItem from="1572964171256" duration="2433000" />
+      <workItem from="1572964171256" duration="5465000" />
+      <workItem from="1572970474398" duration="1834000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -258,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572964741888</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="#L23 | Sourav | kruskal algorithm.">
+      <created>1572966656114</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1572966656114</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +318,8 @@
     <MESSAGE value="#M19 | Sourav | make bin tree" />
     <MESSAGE value="#M20 | Sourav | x shape and find path added." />
     <MESSAGE value="#L22 | Sourav | graph problem added." />
-    <option name="LAST_COMMIT_MESSAGE" value="#L22 | Sourav | graph problem added." />
+    <MESSAGE value="#L23 | Sourav | kruskal algorithm." />
+    <option name="LAST_COMMIT_MESSAGE" value="#L23 | Sourav | kruskal algorithm." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,6 +338,12 @@
           <url>file://$PROJECT_DIR$/graph/minimum-cost-path.js</url>
           <line>6</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/graph/topological-sort.js</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
