@@ -1,5 +1,3 @@
-const MAX = 9999999999999999999999;
-
 class Position {
     public x: number;
     public y: number;
@@ -10,80 +8,59 @@ class Position {
     }
 }
 
-class Queue {
-    public list: Position[] = [];
-    public front: number = -1;
-    public rear: number = -1;
+const MAX = 99999999999999999999999;
 
-    public add(element: Position): void {
-        this.list.push(element);
-        this.front++;
-        if (this.rear === -1) {
-            this.rear++;
-        }
-    }
-
-    public remove(): Position {
-        const element = this.list[0];
-        this.list.splice(0, 1);
-        this.front--;
-        if (this.rear) {
-            this.rear--;
-        }
-        return element;
-    }
+function getMinKeyPositionFromNonVisitedList(cost: number[][], queue: Position[]): Position {
+    return;
 }
 
-function BFS(knight: Position, target: Position, boardSize: number): number[][] {
-    const visit: boolean[][] = [];
-    const dist: number[][] = [];
-    const queue = new Queue();
-
-    for (let i = 0; i < boardSize; i++) {
-        visit[i] = [];
-        dist[i] = [];
-        for (let j = 0; j < boardSize; j++) {
-            visit[i][j] = false;
-            dist[i][j] = MAX;
+function remove(position: Position, queue: Position[]): Position[] {
+    let i = -1;
+    queue.forEach(element => {
+        if (element.x === position.x && element.y === position.y) {
+            i = queue.indexOf(element);
         }
-    }
-    visit[knight.x][knight.y] = true;
-    dist[knight.x][knight.y] = 0;
-
-    queue.add(new Position(knight.x, knight.y));
-
-    while (queue.front !== -1) {
-        const removedElement = queue.remove();
-        if (removedElement.x === target.x && removedElement.y === target.y) {
-            return dist;
-        }
-        getKnightSteps(removedElement).forEach(step => {
-            if (isInSideBoard(step, boardSize) && !visit[step.x][step.y] && dist[step.x][step.y] > (dist[removedElement.x][removedElement.y] + 1)) {
-                visit[step.x][step.y] = true;
-                queue.add(step);
-                dist[step.x][step.y] = (dist[removedElement.x][removedElement.y] + 1)
-            }
-        });
-    }
-    return dist;
+    });
+    return queue.splice(i, 1);
 }
 
-function getKnightSteps(position: Position): Position[] {
-    const steps = [
-        new Position(position.x + 2, position.y + 1),
-        new Position(position.x + 2, position.y - 1),
-        new Position(position.x - 2, position.y + 1),
-        new Position(position.x - 2, position.y - 1),
-        new Position(position.x + 1, position.y + 2),
-        new Position(position.x + 1, position.y - 2),
-        new Position(position.x - 1, position.y + 2),
-        new Position(position.x - 1, position.y - 2),
-    ];
+function getSteps(position: Position, board: number[][]): Position[] {
+    const steps = [];
+    (position.x + 1 > -1 && position.x + 1 < board.length) && (position.y + 1 > -1 && position.y + 1 < board[position.x + 1].length) && steps.push(new Position(position.x + 1, position.y + 2));
+    (position.x + 1 > -1 && position.x + 1 < board.length) && (position.y - 2 > -1 && position.y - 2 < board[position.x + 1].length) && steps.push(new Position(position.x + 1, position.y - 2));
+    (position.x - 1 > -1 && position.x - 1 < board.length) && (position.y + 2 > -1 && position.y + 2 < board[position.x - 1].length) && steps.push(new Position(position.x - 1, position.y + 2));
+    (position.x - 1 > -1 && position.x - 1 < board.length) && (position.y - 2 > -1 && position.y - 2 < board[position.x - 1].length) && steps.push(new Position(position.x - 1, position.y - 2));
+    (position.x + 2 > -1 && position.x + 2 < board.length) && (position.y + 1 > -1 && position.y + 1 < board[position.x + 2].length) && steps.push(new Position(position.x + 2, position.y + 1));
+    (position.x + 2 > -1 && position.x + 2 < board.length) && (position.y - 1 > -1 && position.y - 1 < board[position.x + 2].length) && steps.push(new Position(position.x + 2, position.y - 1));
+    (position.x - 2 > -1 && position.x - 2 < board.length) && (position.y + 1 > -1 && position.y + 1 < board[position.x - 2].length) && steps.push(new Position(position.x - 2, position.y + 1));
+    (position.x - 2 > -1 && position.x - 2 < board.length) && (position.y - 1 > -1 && position.y - 1 < board[position.x - 2].length) && steps.push(new Position(position.x - 2, position.y - 1));
     return steps;
 }
 
-function isInSideBoard(position: Position, boardSize: number): boolean {
-    return !(position.x < 0 || position.y < 0 || boardSize <= position.x || boardSize <= position.y);
-}
+function findSortestPath(graph: number[][], start: Position, target: Position): { parents: Position[][], key: number[][] } {
+    const key: number[][] = [];
+    const parents: Position[][] = [];
+    let queue = [];
+    for (let i = 0; i < graph.length; i++) {
+        key[i] = [];
+        parents[i] = [];
+        for (let j = 0; j < graph[i].length; j++) {
+            key[i][j] = MAX;
+            parents[i][j] = null;
+            queue.push(new Position(i, j));
+        }
+    }
 
-console.log(BFS(new Position(4, 6), new Position(14, 19), 20)[14][19]);
+    while (queue.length != 0) {
+        const minPosition = getMinKeyPositionFromNonVisitedList(key, queue);
+        queue = remove(minPosition, queue);
+        getSteps(minPosition, graph).forEach(step => {
+            if (key[step.x][step.y] > key[minPosition.x][minPosition.y] + 1) {
+                key[step.x][step.y] = key[minPosition.x][minPosition.y] + 1;
+                parents[step.x][step.y] = minPosition;
+            }
+        });
+    }
+
+    return {parents, key};
+}
