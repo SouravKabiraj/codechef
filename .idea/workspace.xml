@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graph/topological-sort.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking solution/n-queen.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/detect-cycle-in-an-undirected-graph.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,19 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="graph/topological-sort.js" working-dir="$PROJECT_DIR$">
+    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="backtracking solution/n-queen.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="graph/topological-sort.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="counter.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array/counter.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="test1.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array/test1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -101,8 +96,6 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.DEBUG JS" />
-      <item itemvalue="Node.js.counter.js" />
-      <item itemvalue="Node.js.test1.js" />
       <item itemvalue="npm.test" />
     </list>
     <recent_temporary>
@@ -157,7 +150,8 @@
       <workItem from="1572881948967" duration="319000" />
       <workItem from="1572883893195" duration="69000" />
       <workItem from="1572964171256" duration="5465000" />
-      <workItem from="1572970474398" duration="1834000" />
+      <workItem from="1572970474398" duration="14374000" />
+      <workItem from="1573222489793" duration="1106000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -264,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572966656114</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="#L23 | Sourav | topological sort.">
+      <created>1572972483815</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1572972483815</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +273,8 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/graph/minimum-cost-path.js" />
+        <option value="$PROJECT_DIR$/graph/detect-cycle-in-an-undirected-graph.js" />
+        <option value="$PROJECT_DIR$/backtracking solution/n-queen.js" />
       </list>
     </option>
   </component>
@@ -319,7 +322,8 @@
     <MESSAGE value="#M20 | Sourav | x shape and find path added." />
     <MESSAGE value="#L22 | Sourav | graph problem added." />
     <MESSAGE value="#L23 | Sourav | kruskal algorithm." />
-    <option name="LAST_COMMIT_MESSAGE" value="#L23 | Sourav | kruskal algorithm." />
+    <MESSAGE value="#L23 | Sourav | topological sort." />
+    <option name="LAST_COMMIT_MESSAGE" value="#L23 | Sourav | topological sort." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -342,8 +346,12 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/graph/topological-sort.js</url>
           <line>9</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/graph/detect-cycle-in-an-undirected-graph.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
