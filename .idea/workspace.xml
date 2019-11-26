@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backtracking solution/n-queen.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/detect-cycle-in-an-undirected-graph.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/interpolation-search.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/kth-leargest-element.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/subset-sum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist/marge-linkedlist-alt-position.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/splitwise/oweing-algorithm.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/common-ancestor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/is-subtree-of-another-tree.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/remove-nodes-root-leaf-paths-length-k.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/reverse-alternate-levels-binary-tree.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +27,108 @@
   <component name="FavoritesManager">
     <favorites_list name="codechef" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/common-ancestor.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="n#TreeNode#0" />
+                <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
+                <element signature="e#776#800#0" />
+                <element signature="e#854#878#0" />
+                <element signature="e#997#1037#0" />
+                <element signature="e#1043#1067#0" />
+                <element signature="e#1199#1238#0" />
+                <element signature="e#1290#1330#0" />
+                <element signature="e#1382#1422#0" />
+                <element signature="e#1428#1498#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/reverse-alternate-levels-binary-tree.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="n#TreeNode#0" />
+                <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/splitwise/oweing-algorithm.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="74" column="29" lean-forward="true" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+              <folding>
+                <element signature="n#Activity#0" />
+                <element signature="e#63#117#0" />
+                <element signature="e#154#220#0" />
+                <element signature="n#!!block;n#getOweAmount#0" />
+                <element signature="n#!!block;n#getDistributionPortionFor#0" />
+                <element signature="e#608#753#0" />
+                <element signature="n#!!block;n#getAmountGiven#0" />
+                <element signature="e#913#1236#0" />
+                <element signature="e#982#1230#0" />
+                <element signature="e#1107#1219#0" />
+                <element signature="n#!!block;n#getOweMatrix#0" />
+                <element signature="n#!!block;n#simplifyMe#0" />
+                <element signature="e#1683#2002#0" />
+                <element signature="e#1730#1996#0" />
+                <element signature="e#1781#1986#0" />
+                <element signature="e#1828#1972#0" />
+                <element signature="e#2409#2531#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/mongo-connector-config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/remove-nodes-root-leaf-paths-length-k.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -26,8 +136,66 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mid</find>
+      <find>terget</find>
+      <find>`</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/linkedlist/delete-alternate-nodes.ts" />
+        <option value="$PROJECT_DIR$/linkedlist/merge-2-sorted-linked-list-in-reverse-order.ts" />
+        <option value="$PROJECT_DIR$/linkedlist/reorder-list.js" />
+        <option value="$PROJECT_DIR$/linkedlist/reorder-list.ts" />
+        <option value="$PROJECT_DIR$/linkedlist/segregate-even-and-odd-nodes-in-a-linked-list.js" />
+        <option value="$PROJECT_DIR$/linkedlist/segregate-even-and-odd-nodes-in-a-linked-list.ts" />
+        <option value="$PROJECT_DIR$/tree/clone-a-binary-tree.ts" />
+        <option value="$PROJECT_DIR$/tree/height-of-binary-tree.ts" />
+        <option value="$PROJECT_DIR$/tree/count-leaves-in-binary-tree.js" />
+        <option value="$PROJECT_DIR$/tree/count-leaves-in-binary-tree.ts" />
+        <option value="$PROJECT_DIR$/tree/mirror-tree.js" />
+        <option value="$PROJECT_DIR$/tree/mirror-tree.ts" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.json" />
+        <option value="$PROJECT_DIR$/tree/minimum-element-in-bst.ts" />
+        <option value="$PROJECT_DIR$/graph/x-total-shapes.js" />
+        <option value="$PROJECT_DIR$/graph/x-total-shapes.ts" />
+        <option value="$PROJECT_DIR$/graph/find-whether-path-exist.ts" />
+        <option value="$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts" />
+        <option value="$PROJECT_DIR$/graph/implementing-floyd-warshall.ts" />
+        <option value="$PROJECT_DIR$/graph/steps-by-knight.js" />
+        <option value="$PROJECT_DIR$/graph/kruskals-algorithm-for-finding-minimum-cost-spanning-tree.js" />
+        <option value="$PROJECT_DIR$/graph/kruskals-algorithm-for-finding-minimum-cost-spanning-tree.ts" />
+        <option value="$PROJECT_DIR$/graph/steps-by-knight.ts" />
+        <option value="$PROJECT_DIR$/graph/bipartite-graph.js" />
+        <option value="$PROJECT_DIR$/graph/bipartite-graph.ts" />
+        <option value="$PROJECT_DIR$/linkedlist/add-two-number.js" />
+        <option value="$PROJECT_DIR$/linkedlist/add-two-number.ts" />
+        <option value="$PROJECT_DIR$/linkedlist/marge-linkedlist-alt-position.ts" />
+        <option value="$PROJECT_DIR$/array/subset-sum.ts" />
+        <option value="$PROJECT_DIR$/array/interpolation-search.js" />
+        <option value="$PROJECT_DIR$/array/interpolation-search.ts" />
+        <option value="$PROJECT_DIR$/array/kth-leargest-element.ts" />
+        <option value="$PROJECT_DIR$/splitwise/oweing-algorithm.js" />
+        <option value="$PROJECT_DIR$/array/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x.ts" />
+        <option value="$PROJECT_DIR$/array/remove-nodes-root-leaf-paths-length-k.ts" />
+        <option value="$PROJECT_DIR$/tree/remove-nodes-root-leaf-paths-length-k.ts" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+        <option value="$PROJECT_DIR$/tree/common-ancestor.ts" />
+        <option value="$PROJECT_DIR$/tree/is-subtree-of-another-tree.js" />
+        <option value="$PROJECT_DIR$/tree/is-subtree-of-another-tree.ts" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" />
+        <option value="$PROJECT_DIR$/tree/reverse-alternate-levels-binary-tree.ts" />
+        <option value="$PROJECT_DIR$/splitwise/oweing-algorithm.ts" />
+        <option value="$USER_HOME$/mongo-connector-config.json" />
+      </list>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -35,19 +203,45 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="11" />
+    <option name="y" value="199" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
   <component name="ProjectId" id="1OedMU2lLhpIzq1WlSJGLuZaAl3" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="codechef" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../finzy/adhoc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tree" />
       <recent name="$PROJECT_DIR$/linkedlist" />
       <recent name="$PROJECT_DIR$/array" />
     </key>
@@ -75,44 +269,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="backtracking solution/n-queen.js" working-dir="$PROJECT_DIR$">
+    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node" path-to-js-file="tree/is-subtree-of-another-tree.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="graph/topological-sort.js" working-dir="$PROJECT_DIR$">
+    <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" path-to-js-file="MaximumInStructArray.js" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Main" run_configuration_type="Unknown" />
+      </method>
+    </configuration>
+    <configuration name="counter.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array/counter.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/../finzy/adhoc/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="test" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="test1.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/array/test1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.DEBUG JS" />
-      <item itemvalue="npm.test" />
+      <item itemvalue="Node.js.counter.js" />
+      <item itemvalue="Node.js.test1.js" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="npm.test" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand />
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -143,15 +321,11 @@
       <workItem from="1569815015635" duration="9653000" />
       <workItem from="1569903471927" duration="1515000" />
       <workItem from="1571804463711" duration="11906000" />
-      <workItem from="1572782912751" duration="3000" />
-      <workItem from="1572791816612" duration="4426000" />
-      <workItem from="1572796259341" duration="3142000" />
-      <workItem from="1572804600534" duration="617000" />
-      <workItem from="1572881948967" duration="319000" />
-      <workItem from="1572883893195" duration="69000" />
-      <workItem from="1572964171256" duration="5465000" />
-      <workItem from="1572970474398" duration="14374000" />
-      <workItem from="1573222489793" duration="1106000" />
+      <workItem from="1572255815590" duration="6433000" />
+      <workItem from="1572359137721" duration="14723000" />
+      <workItem from="1572862674226" duration="901000" />
+      <workItem from="1574067256848" duration="6000" />
+      <workItem from="1574136656253" duration="27034000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -244,37 +418,90 @@
       <option name="project" value="LOCAL" />
       <updated>1571899296170</updated>
     </task>
-    <task id="LOCAL-00014" summary="#L22 | Sourav | graph problem added.">
-      <created>1572964741888</created>
+    <task id="LOCAL-00014" summary="#M21 | Sourav | BST implementation.">
+      <created>1572370578979</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1572964741888</updated>
+      <updated>1572370578979</updated>
     </task>
-    <task id="LOCAL-00015" summary="#L23 | Sourav | kruskal algorithm.">
-      <created>1572966656114</created>
+    <task id="LOCAL-00015" summary="#M22 | Sourav | kruskals algo.">
+      <created>1572495343914</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1572966656114</updated>
+      <updated>1572495343915</updated>
     </task>
-    <task id="LOCAL-00016" summary="#L23 | Sourav | topological sort.">
-      <created>1572972483815</created>
+    <task id="LOCAL-00016" summary="#M23 | Sourav | Add two number.">
+      <created>1573208288364</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1572972483815</updated>
+      <updated>1573208288364</updated>
     </task>
     <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92933000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861878" visible="true" weight="0.21282594" />
+      <window_info id="Structure" order="1" sideWeight="0.5013812" side_tool="true" weight="0.21282594" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49400985" weight="0.48031497" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49048626" weight="0.2624672" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.61154854" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49119097" weight="0.34908137" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50951374" side_tool="true" weight="0.2624672" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32961586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2410148" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4947146" weight="0.32939634" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4947146" weight="0.4081365" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49612403" visible="true" weight="0.21784776" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.503876" side_tool="true" weight="0.22304833" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32961586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/graph/minimum-cost-path.js" />
-        <option value="$PROJECT_DIR$/graph/detect-cycle-in-an-undirected-graph.js" />
-        <option value="$PROJECT_DIR$/backtracking solution/n-queen.js" />
+        <option value="$PROJECT_DIR$/array/kth-leargest-element.js" />
+        <option value="$PROJECT_DIR$/linkedlist/add-two-number.js" />
+        <option value="$PROJECT_DIR$/splitwise/oweing-algorithm.js" />
+        <option value="$PROJECT_DIR$/array/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x.js" />
+        <option value="$PROJECT_DIR$/tree/remove-nodes-root-leaf-paths-length-k.js" />
+        <option value="$PROJECT_DIR$/tree/common-ancestor.js" />
+        <option value="$PROJECT_DIR$/tree/is-subtree-of-another-tree.js" />
       </list>
     </option>
   </component>
@@ -287,7 +514,20 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ORDER" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -320,40 +560,469 @@
     <MESSAGE value="#18 | Sourav | mirror tree." />
     <MESSAGE value="#M19 | Sourav | make bin tree" />
     <MESSAGE value="#M20 | Sourav | x shape and find path added." />
-    <MESSAGE value="#L22 | Sourav | graph problem added." />
-    <MESSAGE value="#L23 | Sourav | kruskal algorithm." />
-    <MESSAGE value="#L23 | Sourav | topological sort." />
-    <option name="LAST_COMMIT_MESSAGE" value="#L23 | Sourav | topological sort." />
+    <MESSAGE value="#M21 | Sourav | BST implementation." />
+    <MESSAGE value="#M22 | Sourav | kruskals algo." />
+    <MESSAGE value="#M23 | Sourav | Add two number." />
+    <option name="LAST_COMMIT_MESSAGE" value="#M23 | Sourav | Add two number." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/graph/minimum-cost-path.js</url>
-          <line>12</line>
-          <option name="timeStamp" value="25" />
+          <url>file://$PROJECT_DIR$/linkedlist/add-two-number.js</url>
+          <line>68</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/graph/minimum-cost-path.js</url>
-          <line>11</line>
-          <option name="timeStamp" value="26" />
+          <url>file://$PROJECT_DIR$/linkedlist/add-two-number.js</url>
+          <line>63</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/graph/minimum-cost-path.js</url>
-          <line>6</line>
-          <option name="timeStamp" value="35" />
+          <url>file://$PROJECT_DIR$/linkedlist/add-two-number.js</url>
+          <line>64</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/graph/topological-sort.js</url>
-          <line>9</line>
-          <option name="timeStamp" value="50" />
+          <url>file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.js</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/graph/detect-cycle-in-an-undirected-graph.js</url>
+          <url>file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.js</url>
+          <line>17</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.js</url>
           <line>22</line>
-          <option name="timeStamp" value="54" />
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.js</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tree/convert-ternary-expression-to-binary-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/expression-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/remove-half-nodes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/max-level-sum-in-binary-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/x-total-shapes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/make-binary-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/length-of-largest-region-of-1s.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/snake-and-ladder-problem.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/x-total-shapes.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json" />
+    <entry file="file://$PROJECT_DIR$/tree/construct-tree-from-preorder-traversal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/steps-by-knight.js" />
+    <entry file="file://$PROJECT_DIR$/graph/implementing-dijkstra-set-1-adjacency-matrix.js" />
+    <entry file="file://$PROJECT_DIR$/graph/kruskals-algorithm-for-finding-minimum-cost-spanning-tree.js" />
+    <entry file="file://$PROJECT_DIR$/graph/find-whether-path-exist.js" />
+    <entry file="file://$PROJECT_DIR$/graph/implementing-floyd-warshall.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/find-whether-path-exist.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/kruskals-algorithm-for-finding-minimum-cost-spanning-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/implementing-dijkstra-set-1-adjacency-matrix.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="n#Queue#0" />
+            <element signature="n#!!block;n#add#0;n#Queue#0" />
+            <element signature="n#!!block;n#remove#0;n#Queue#0" />
+            <element signature="e#966#1136#0" />
+            <element signature="e#1010#1126#0" />
+            <element signature="n#!!block;n#getSize#0;n#Queue#0" />
+            <element signature="n#!!block;n#getList#0;n#Queue#0" />
+            <element signature="e#1335#1523#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/negative-weight-cycle.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/add-1-to-a-number-represented-as-linked-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="81" column="30" lean-forward="true" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+          <folding>
+            <element signature="n#LinklistNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#LinklistNode#0" />
+            <element signature="n#Linklist#0" />
+            <element signature="n#!!block;n#constructor#0;n#Linklist#0" />
+            <element signature="n#!!block;n#add#0;n#Linklist#0" />
+            <element signature="e#533#605#0" />
+            <element signature="e#611#782#0" />
+            <element signature="e#654#709#0" />
+            <element signature="n#!!block;n#getPerv#0;n#Linklist#0" />
+            <element signature="e#869#905#0" />
+            <element signature="e#911#1149#0" />
+            <element signature="e#1025#1114#0" />
+            <element signature="n#!!block;n#show#0;n#Linklist#0" />
+            <element signature="e#1242#1339#0" />
+            <element signature="e#1475#1725#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="1132" column="4" selection-start-line="1132" selection-start-column="4" selection-end-line="1132" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/bipartite-graph.js" />
+    <entry file="file://$PROJECT_DIR$/linkedlist/binary-tree-to-cdll.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/reorder-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="79" column="36" lean-forward="true" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
+          <folding>
+            <element signature="n#LinklistNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#LinklistNode#0" />
+            <element signature="n#Linklist#0" />
+            <element signature="n#!!block;n#constructor#0;n#Linklist#0" />
+            <element signature="n#!!block;n#add#0;n#Linklist#0" />
+            <element signature="e#533#574#0" />
+            <element signature="e#580#721#0" />
+            <element signature="e#623#678#0" />
+            <element signature="n#!!block;n#getMid#0;n#Linklist#0" />
+            <element signature="n#!!block;n#addAtStart#0;n#Linklist#0" />
+            <element signature="n#!!block;n#show#0;n#Linklist#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/bipartite-graph.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!block;n#getAllAdjVertex#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/steps-by-knight.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="n#Position#0" />
+            <element signature="n#!!block;n#constructor#0;n#Position#0" />
+            <element signature="n#!!block;n#getMinKeyPositionFromNonVisitedList#0" />
+            <element signature="n#!!block;n#remove#0" />
+            <element signature="e#412#537#0" />
+            <element signature="e#480#531#0" />
+            <element signature="n#!!block;n#getSteps#0" />
+            <element signature="n#!!block#1;n#findSortestPath#0" />
+            <element signature="e#2498#2720#0" />
+            <element signature="e#2596#2714#0" />
+            <element signature="e#2752#3172#0" />
+            <element signature="e#2928#3164#0" />
+            <element signature="e#3007#3154#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/marge-linkedlist-alt-position.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <element signature="n#LinklistNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#LinklistNode#0" />
+            <element signature="n#Linklist#0" />
+            <element signature="n#!!block;n#show#0;n#Linklist#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/add-two-number.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="n#LinklistNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#LinklistNode#0" />
+            <element signature="n#Linklist#0" />
+            <element signature="n#!!block;n#show#0;n#Linklist#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/add-two-number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/test1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/sum-of-lengths-of-non-overlapping-subarrays.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/rotateArray.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/AdditionOfSubmatrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/subset-sum.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/interpolation-search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/interpolation-search.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/kth-leargest-element.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitwise/oweing-algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#!!block;n#left#0;n#!!block;n#left#0;n#!!block;n#left#0;n#!!block;n#left#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/remove-nodes-root-leaf-paths-length-k.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/remove-nodes-root-leaf-paths-length-k.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="n#TreeNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
+            <element signature="e#776#800#0" />
+            <element signature="e#854#878#0" />
+            <element signature="e#997#1037#0" />
+            <element signature="e#1043#1067#0" />
+            <element signature="e#1199#1238#0" />
+            <element signature="e#1290#1330#0" />
+            <element signature="e#1382#1422#0" />
+            <element signature="e#1428#1498#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/reverse-alternate-levels-binary-tree.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="n#TreeNode#0" />
+            <element signature="n#!!block;n#constructor#0;n#TreeNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/is-subtree-of-another-tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/common-ancestor.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/mongo-connector-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitwise/oweing-algorithm.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="74" column="29" lean-forward="true" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+          <folding>
+            <element signature="n#Activity#0" />
+            <element signature="e#63#117#0" />
+            <element signature="e#154#220#0" />
+            <element signature="n#!!block;n#getOweAmount#0" />
+            <element signature="n#!!block;n#getDistributionPortionFor#0" />
+            <element signature="e#608#753#0" />
+            <element signature="n#!!block;n#getAmountGiven#0" />
+            <element signature="e#913#1236#0" />
+            <element signature="e#982#1230#0" />
+            <element signature="e#1107#1219#0" />
+            <element signature="n#!!block;n#getOweMatrix#0" />
+            <element signature="n#!!block;n#simplifyMe#0" />
+            <element signature="e#1683#2002#0" />
+            <element signature="e#1730#1996#0" />
+            <element signature="e#1781#1986#0" />
+            <element signature="e#1828#1972#0" />
+            <element signature="e#2409#2531#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
