@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../../Finzy/frontend/src/app/views/accept-invitation/pan-verification/pan-verification.component.html" description="&lt;small class=&quot;text-error&quot; *ngIf=&quot;unknownError()&quot;&gt;S..." line="61" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dynamic-programming/distinct-occurrences.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/max-product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/substrings-start-end-1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/k-distance-from-root.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/test1.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/test1.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,28 +20,6 @@
   <component name="FavoritesManager">
     <favorites_list name="codechef" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dynamic-programming/longest-bitonic-subsequence.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dynamic-programming/distinct-occurrences.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -53,69 +30,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/dynamic-programming/distinct-occurrences.js" />
-        <option value="$PROJECT_DIR$/dynamic-programming/distinct-occurrences.ts" />
-      </list>
-    </option>
-  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
-  </component>
   <component name="ProjectId" id="1OedMU2lLhpIzq1WlSJGLuZaAl3" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="codechef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codechef" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codechef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codechef" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic-programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codechef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codechef" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="longest-bitonic-subsequence.ts" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="codechef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codechef" type="462c0819:PsiDirectoryNode" />
-              <item name="splitwise" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript&#10;JSON" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../finzy/adhoc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../consistent-hashing" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -123,18 +57,6 @@
       <recent name="$PROJECT_DIR$/linkedlist" />
       <recent name="$PROJECT_DIR$/array" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Node.js.DEBUG JS">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -147,7 +69,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node" path-to-js-file="dynamic-programming/distinct-occurrences.js" working-dir="$PROJECT_DIR$">
+    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="array/max-product.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
@@ -177,13 +99,15 @@
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand />
-          <select />
-        </treeState>
-      </serviceView>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -227,7 +151,20 @@
       <workItem from="1573237223897" duration="2453000" />
       <workItem from="1573279792700" duration="11123000" />
       <workItem from="1573401487878" duration="6931000" />
-      <workItem from="1583297144477" duration="7938000" />
+      <workItem from="1577728231914" duration="6345000" />
+      <workItem from="1577984135998" duration="7109000" />
+      <workItem from="1578131609843" duration="12166000" />
+      <workItem from="1578242893733" duration="486000" />
+      <workItem from="1578334455818" duration="13992000" />
+      <workItem from="1578504414436" duration="599000" />
+      <workItem from="1578507418698" duration="27000" />
+      <workItem from="1578811654810" duration="2446000" />
+      <workItem from="1578933572457" duration="11000" />
+      <workItem from="1579195901045" duration="1642000" />
+      <workItem from="1581180122966" duration="5259000" />
+      <workItem from="1581247989396" duration="619000" />
+      <workItem from="1581609002756" duration="162000" />
+      <workItem from="1581966452665" duration="3626000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -351,40 +288,15 @@
     <option name="localTasksCounter" value="18" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8066000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861878" visible="true" weight="0.30232558" />
-      <window_info id="Structure" order="1" sideWeight="0.5013812" side_tool="true" weight="0.21282594" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4918957" weight="0.21259843" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49048626" weight="0.4527559" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.61154854" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49119097" weight="0.14173229" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5081043" side_tool="true" weight="0.4684015" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32961586" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
+        <option value="$PROJECT_DIR$/dynamic-programming/longest-common-subsequence.js" />
         <option value="$PROJECT_DIR$/graph/minimum-cost-path.js" />
-        <option value="$PROJECT_DIR$/dynamic-programming/distinct-occurrences.js" />
+        <option value="$PROJECT_DIR$/dynamic-programming/edit-distance-dp.js" />
+        <option value="$PROJECT_DIR$/dynamic-programming/longest-Increasing-subsequence.js" />
+        <option value="$PROJECT_DIR$/graph/detect-cycle-in-an-undirected-graph.js" />
       </list>
     </option>
   </component>
@@ -397,12 +309,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -442,6 +348,100 @@
     <MESSAGE value="#L24 | Sourav | n queen." />
     <option name="LAST_COMMIT_MESSAGE" value="#L24 | Sourav | n queen." />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581183101605">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1581183101605" />
+    <state width="772" height="466" key="DebuggerActiveHint" timestamp="1581183512421">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="772" height="466" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1581183512421" />
+    <state x="170" y="127" width="1650" height="853" key="DiffContextDialog" timestamp="1578146390437">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="170" y="127" width="1650" height="853" key="DiffContextDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578146390437" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581609163288">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1581609163288" />
+    <state width="1827" height="201" key="GridCell.Tab.0.bottom" timestamp="1581224617826">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="201" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617826" />
+    <state width="1827" height="201" key="GridCell.Tab.0.center" timestamp="1581224617825">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="201" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617825" />
+    <state width="1827" height="201" key="GridCell.Tab.0.left" timestamp="1581224617825">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="201" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617825" />
+    <state width="1827" height="201" key="GridCell.Tab.0.right" timestamp="1581224617826">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="201" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617826" />
+    <state width="1827" height="367" key="GridCell.Tab.1.bottom" timestamp="1581224617794">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
+    <state width="1827" height="367" key="GridCell.Tab.1.center" timestamp="1581224617793">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617793" />
+    <state width="1827" height="367" key="GridCell.Tab.1.left" timestamp="1581224617793">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617793" />
+    <state width="1827" height="367" key="GridCell.Tab.1.right" timestamp="1581224617793">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617793" />
+    <state width="1827" height="367" key="GridCell.Tab.2.bottom" timestamp="1581224617794">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.2.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
+    <state width="1827" height="367" key="GridCell.Tab.2.center" timestamp="1581224617794">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.2.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
+    <state width="1827" height="367" key="GridCell.Tab.2.left" timestamp="1581224617794">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.2.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
+    <state width="1827" height="367" key="GridCell.Tab.2.right" timestamp="1581224617794">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.2.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
+    <state width="1827" height="367" key="GridCell.Tab.3.bottom" timestamp="1581224617795">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.3.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617795" />
+    <state width="1827" height="367" key="GridCell.Tab.3.center" timestamp="1581224617795">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.3.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617795" />
+    <state width="1827" height="367" key="GridCell.Tab.3.left" timestamp="1581224617795">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.3.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617795" />
+    <state width="1827" height="367" key="GridCell.Tab.3.right" timestamp="1581224617795">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="367" key="GridCell.Tab.3.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617795" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1581180793424">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1581180793424" />
+    <state x="659" y="252" key="run.anything.popup" timestamp="1578134275165">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="659" y="252" key="run.anything.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1578134275165" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1578415584859">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1578415584859" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -475,44 +475,12 @@
           <line>37</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/array/max-product.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dynamic-programming/wildcard-pattern-matching.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic-programming/shortest-common-supersequence.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic-programming/distinct-occurrences.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic-programming/distinct-occurrences.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic-programming/longest-bitonic-subsequence.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
