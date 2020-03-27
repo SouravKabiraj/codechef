@@ -4,7 +4,6 @@ function isSentance(text: string, dictionary: string[]): boolean {
     if (dp[text]) {
         return dp[text];
     }
-    console.log(text);
     if (dictionary.indexOf(text) >= 0) {
         dp[text] = true;
         return true;
