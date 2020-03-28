@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/xor_linked_list.dir/main.cpp.o  -o xor_linked_list 
