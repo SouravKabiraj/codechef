@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/max-product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/substrings-start-end-1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/k-distance-from-root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/brackets-in-matrix-chain-multiplication.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/number-of-ways.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/test1.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/test1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +14,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="codechef" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,15 +34,22 @@
   <component name="ProjectId" id="1OedMU2lLhpIzq1WlSJGLuZaAl3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript&#10;JSON" />
     <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../consistent-hashing" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
@@ -69,7 +71,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="array/max-product.js" working-dir="$PROJECT_DIR$">
+    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="dynamic-programming/brackets-in-matrix-chain-multiplication.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
@@ -97,18 +99,6 @@
         <item itemvalue="npm.test" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -165,6 +155,8 @@
       <workItem from="1581247989396" duration="619000" />
       <workItem from="1581609002756" duration="162000" />
       <workItem from="1581966452665" duration="3626000" />
+      <workItem from="1585416732919" duration="6771000" />
+      <workItem from="1585475491833" duration="3164000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -285,20 +277,25 @@
       <option name="project" value="LOCAL" />
       <updated>1573236065060</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="#L34 | Sourav | Added xor-list.">
+      <created>1585416930586</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585416930586</updated>
+    </task>
+    <task id="LOCAL-00019" summary="#L34 | Sourav | Added xor-list.">
+      <created>1585416965187</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585416965187</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/dynamic-programming/longest-common-subsequence.js" />
-        <option value="$PROJECT_DIR$/graph/minimum-cost-path.js" />
-        <option value="$PROJECT_DIR$/dynamic-programming/edit-distance-dp.js" />
-        <option value="$PROJECT_DIR$/dynamic-programming/longest-Increasing-subsequence.js" />
-        <option value="$PROJECT_DIR$/graph/detect-cycle-in-an-undirected-graph.js" />
-      </list>
-    </option>
+    <option name="version" value="2" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
@@ -308,9 +305,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -329,6 +324,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#1 | Sourav | implemented addition of sub matrix" />
@@ -346,17 +342,22 @@
     <MESSAGE value="#L23 | Sourav | kruskal algorithm." />
     <MESSAGE value="#L23 | Sourav | topological sort." />
     <MESSAGE value="#L24 | Sourav | n queen." />
-    <option name="LAST_COMMIT_MESSAGE" value="#L24 | Sourav | n queen." />
+    <MESSAGE value="#L34 | Sourav | Added xor-list." />
+    <option name="LAST_COMMIT_MESSAGE" value="#L34 | Sourav | Added xor-list." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581183101605">
+    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585477926201">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1581183101605" />
-    <state width="772" height="466" key="DebuggerActiveHint" timestamp="1581183512421">
+    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585477926201" />
+    <state x="546" y="127" width="887" height="859" key="CommitChangelistDialog2" timestamp="1585416964822">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="772" height="466" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1581183512421" />
+    <state x="546" y="127" width="887" height="859" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1585416964822" />
+    <state width="772" height="466" key="DebuggerActiveHint" timestamp="1585478222162">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="772" height="466" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1585478222162" />
     <state x="170" y="127" width="1650" height="853" key="DiffContextDialog" timestamp="1578146390437">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
@@ -365,70 +366,70 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1581609163288" />
-    <state width="1827" height="201" key="GridCell.Tab.0.bottom" timestamp="1581224617826">
+    <state width="1827" height="438" key="GridCell.Tab.0.bottom" timestamp="1585479260368">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="201" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617826" />
-    <state width="1827" height="201" key="GridCell.Tab.0.center" timestamp="1581224617825">
+    <state width="1827" height="438" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260368" />
+    <state width="1827" height="438" key="GridCell.Tab.0.center" timestamp="1585479260362">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="201" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617825" />
-    <state width="1827" height="201" key="GridCell.Tab.0.left" timestamp="1581224617825">
+    <state width="1827" height="438" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260362" />
+    <state width="1827" height="438" key="GridCell.Tab.0.left" timestamp="1585479260361">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="201" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617825" />
-    <state width="1827" height="201" key="GridCell.Tab.0.right" timestamp="1581224617826">
+    <state width="1827" height="438" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260361" />
+    <state width="1827" height="438" key="GridCell.Tab.0.right" timestamp="1585479260363">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="201" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617826" />
-    <state width="1827" height="367" key="GridCell.Tab.1.bottom" timestamp="1581224617794">
+    <state width="1827" height="438" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260363" />
+    <state width="1827" height="438" key="GridCell.Tab.1.bottom" timestamp="1585479260686">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
-    <state width="1827" height="367" key="GridCell.Tab.1.center" timestamp="1581224617793">
+    <state width="1827" height="438" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260686" />
+    <state width="1827" height="438" key="GridCell.Tab.1.center" timestamp="1585479260686">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617793" />
-    <state width="1827" height="367" key="GridCell.Tab.1.left" timestamp="1581224617793">
+    <state width="1827" height="438" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260685" />
+    <state width="1827" height="438" key="GridCell.Tab.1.left" timestamp="1585479260684">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617793" />
-    <state width="1827" height="367" key="GridCell.Tab.1.right" timestamp="1581224617793">
+    <state width="1827" height="438" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260684" />
+    <state width="1827" height="438" key="GridCell.Tab.1.right" timestamp="1585479260686">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617793" />
-    <state width="1827" height="367" key="GridCell.Tab.2.bottom" timestamp="1581224617794">
+    <state width="1827" height="438" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260686" />
+    <state width="1827" height="438" key="GridCell.Tab.2.bottom" timestamp="1585479260095">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.2.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
-    <state width="1827" height="367" key="GridCell.Tab.2.center" timestamp="1581224617794">
+    <state width="1827" height="438" key="GridCell.Tab.2.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260095" />
+    <state width="1827" height="438" key="GridCell.Tab.2.center" timestamp="1585479260094">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.2.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
-    <state width="1827" height="367" key="GridCell.Tab.2.left" timestamp="1581224617794">
+    <state width="1827" height="438" key="GridCell.Tab.2.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260094" />
+    <state width="1827" height="438" key="GridCell.Tab.2.left" timestamp="1585479260094">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.2.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
-    <state width="1827" height="367" key="GridCell.Tab.2.right" timestamp="1581224617794">
+    <state width="1827" height="438" key="GridCell.Tab.2.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260094" />
+    <state width="1827" height="438" key="GridCell.Tab.2.right" timestamp="1585479260095">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.2.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617794" />
-    <state width="1827" height="367" key="GridCell.Tab.3.bottom" timestamp="1581224617795">
+    <state width="1827" height="438" key="GridCell.Tab.2.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260095" />
+    <state width="1827" height="438" key="GridCell.Tab.3.bottom" timestamp="1585479260096">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.3.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617795" />
-    <state width="1827" height="367" key="GridCell.Tab.3.center" timestamp="1581224617795">
+    <state width="1827" height="438" key="GridCell.Tab.3.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260096" />
+    <state width="1827" height="438" key="GridCell.Tab.3.center" timestamp="1585479260095">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.3.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617795" />
-    <state width="1827" height="367" key="GridCell.Tab.3.left" timestamp="1581224617795">
+    <state width="1827" height="438" key="GridCell.Tab.3.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260095" />
+    <state width="1827" height="438" key="GridCell.Tab.3.left" timestamp="1585479260095">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.3.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617795" />
-    <state width="1827" height="367" key="GridCell.Tab.3.right" timestamp="1581224617795">
+    <state width="1827" height="438" key="GridCell.Tab.3.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260095" />
+    <state width="1827" height="438" key="GridCell.Tab.3.right" timestamp="1585479260096">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="367" key="GridCell.Tab.3.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581224617795" />
+    <state width="1827" height="438" key="GridCell.Tab.3.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585479260096" />
     <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1581180793424">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
@@ -479,6 +480,12 @@
           <url>file://$PROJECT_DIR$/array/max-product.js</url>
           <line>18</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dynamic-programming/brackets-in-matrix-chain-multiplication.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
