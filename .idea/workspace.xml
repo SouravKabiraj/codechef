@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b9d93b-9237-4a39-9e93-55d9a422fbc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dynamic-programming/gold-mine-problem.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/count-palindrome-sub-strings-of-a-string.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/longest-palindromic-subsequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/longest-palindromic-subsequence.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/max-length-chain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/max-length-chain.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/you-and-your-books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-programming/you-and-your-books.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +52,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript&#10;JSON" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../consistent-hashing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FileRead" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,7 +80,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="dynamic-programming/gold-mine-problem.js" working-dir="$PROJECT_DIR$">
+    <configuration name="DEBUG JS" type="NodeJSConfigurationType" singleton="false" path-to-node="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node" path-to-js-file="dynamic-programming/max-length-chain.js" working-dir="$PROJECT_DIR$">
       <envs>
         <env name="NODE_PATH" value="/usr/bin/node" />
       </envs>
@@ -160,6 +166,8 @@
       <workItem from="1581966452665" duration="3626000" />
       <workItem from="1585416732919" duration="6771000" />
       <workItem from="1585475491833" duration="7755000" />
+      <workItem from="1585581878883" duration="424000" />
+      <workItem from="1585597801467" duration="13243000" />
     </task>
     <task id="LOCAL-00001" summary="#1 | Sourav | implemented addition of sub matrix">
       <created>1567961527073</created>
@@ -308,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585518394845</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="#L36 | Sourav | Added gold mine problem.">
+      <created>1585518436509</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585518436509</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,90 +381,90 @@
     <option name="LAST_COMMIT_MESSAGE" value="#L36 | Sourav | Added gold mine problem." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585518071171">
+    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585674898599">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585518071171" />
-    <state x="546" y="127" width="912" height="859" key="CommitChangelistDialog2" timestamp="1585518394637">
+    <state x="768" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585674898599" />
+    <state x="546" y="127" width="912" height="859" key="CommitChangelistDialog2" timestamp="1585518436398">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="546" y="127" width="912" height="859" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1585518394637" />
-    <state width="772" height="466" key="DebuggerActiveHint" timestamp="1585478222162">
+    <state x="546" y="127" width="912" height="859" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1585518436398" />
+    <state width="772" height="466" key="DebuggerActiveHint" timestamp="1585678369067">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="772" height="466" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1585478222162" />
+    <state width="772" height="466" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1585678369067" />
     <state x="170" y="127" width="1650" height="853" key="DiffContextDialog" timestamp="1585479560253">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="170" y="127" width="1650" height="853" key="DiffContextDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585479560253" />
-    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581609163288">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585582300549">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1581609163288" />
-    <state width="1827" height="318" key="GridCell.Tab.0.bottom" timestamp="1585518217013">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1585582300549" />
+    <state width="1827" height="414" key="GridCell.Tab.0.bottom" timestamp="1585678447191">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217013" />
-    <state width="1827" height="318" key="GridCell.Tab.0.center" timestamp="1585518217012">
+    <state width="1827" height="414" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447191" />
+    <state width="1827" height="414" key="GridCell.Tab.0.center" timestamp="1585678447186">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217012" />
-    <state width="1827" height="318" key="GridCell.Tab.0.left" timestamp="1585518217011">
+    <state width="1827" height="414" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447186" />
+    <state width="1827" height="414" key="GridCell.Tab.0.left" timestamp="1585678447184">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217011" />
-    <state width="1827" height="318" key="GridCell.Tab.0.right" timestamp="1585518217012">
+    <state width="1827" height="414" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447184" />
+    <state width="1827" height="414" key="GridCell.Tab.0.right" timestamp="1585678447188">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217012" />
-    <state width="1827" height="318" key="GridCell.Tab.1.bottom" timestamp="1585518217016">
+    <state width="1827" height="414" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447188" />
+    <state width="1827" height="414" key="GridCell.Tab.1.bottom" timestamp="1585678447195">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217016" />
-    <state width="1827" height="318" key="GridCell.Tab.1.center" timestamp="1585518217014">
+    <state width="1827" height="414" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447195" />
+    <state width="1827" height="414" key="GridCell.Tab.1.center" timestamp="1585678447193">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217014" />
-    <state width="1827" height="318" key="GridCell.Tab.1.left" timestamp="1585518217014">
+    <state width="1827" height="414" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447193" />
+    <state width="1827" height="414" key="GridCell.Tab.1.left" timestamp="1585678447192">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217014" />
-    <state width="1827" height="318" key="GridCell.Tab.1.right" timestamp="1585518217015">
+    <state width="1827" height="414" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447192" />
+    <state width="1827" height="414" key="GridCell.Tab.1.right" timestamp="1585678447194">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217015" />
-    <state width="1827" height="318" key="GridCell.Tab.2.bottom" timestamp="1585518217020">
+    <state width="1827" height="414" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447194" />
+    <state width="1827" height="414" key="GridCell.Tab.2.bottom" timestamp="1585678447196">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.2.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217020" />
-    <state width="1827" height="318" key="GridCell.Tab.2.center" timestamp="1585518217019">
+    <state width="1827" height="414" key="GridCell.Tab.2.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447196" />
+    <state width="1827" height="414" key="GridCell.Tab.2.center" timestamp="1585678447195">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.2.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217019" />
-    <state width="1827" height="318" key="GridCell.Tab.2.left" timestamp="1585518217018">
+    <state width="1827" height="414" key="GridCell.Tab.2.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447195" />
+    <state width="1827" height="414" key="GridCell.Tab.2.left" timestamp="1585678447195">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.2.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217018" />
-    <state width="1827" height="318" key="GridCell.Tab.2.right" timestamp="1585518217020">
+    <state width="1827" height="414" key="GridCell.Tab.2.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447195" />
+    <state width="1827" height="414" key="GridCell.Tab.2.right" timestamp="1585678447196">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.2.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217020" />
-    <state width="1827" height="318" key="GridCell.Tab.3.bottom" timestamp="1585518217023">
+    <state width="1827" height="414" key="GridCell.Tab.2.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447196" />
+    <state width="1827" height="414" key="GridCell.Tab.3.bottom" timestamp="1585678447198">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.3.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217023" />
-    <state width="1827" height="318" key="GridCell.Tab.3.center" timestamp="1585518217021">
+    <state width="1827" height="414" key="GridCell.Tab.3.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447198" />
+    <state width="1827" height="414" key="GridCell.Tab.3.center" timestamp="1585678447197">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.3.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217021" />
-    <state width="1827" height="318" key="GridCell.Tab.3.left" timestamp="1585518217021">
+    <state width="1827" height="414" key="GridCell.Tab.3.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447197" />
+    <state width="1827" height="414" key="GridCell.Tab.3.left" timestamp="1585678447197">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.3.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217021" />
-    <state width="1827" height="318" key="GridCell.Tab.3.right" timestamp="1585518217022">
+    <state width="1827" height="414" key="GridCell.Tab.3.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447197" />
+    <state width="1827" height="414" key="GridCell.Tab.3.right" timestamp="1585678447197">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="318" key="GridCell.Tab.3.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585518217022" />
+    <state width="1827" height="414" key="GridCell.Tab.3.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585678447197" />
     <state x="790" y="240" width="413" height="640" key="RollbackChangesDialog" timestamp="1585518371685">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
@@ -504,6 +519,12 @@
           <url>file://$PROJECT_DIR$/array/max-product.js</url>
           <line>18</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dynamic-programming/longest-palindromic-subsequence.js</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
