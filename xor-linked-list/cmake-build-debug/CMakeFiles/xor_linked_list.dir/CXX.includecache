@@ -7,10 +7,6 @@
 #IncludeRegexTransform: 
 
 /home/kabiraj/workspace/codechef/xor-linked-list/main.cpp
-iostream
--
 bits/stdc++.h
--
-inttypes.h
 -
 
